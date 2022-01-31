@@ -1,0 +1,11 @@
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\bin\Debug\メモ帳君.exe.config
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\bin\Debug\メモ帳君.exe
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\bin\Debug\メモ帳君.pdb
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.Form1.resources
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.Properties.Resources.resources
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.csproj.GenerateResource.cache
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.csproj.CoreCompileInputs.cache
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.exe
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.pdb
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.Form2.resources
+C:\Users\xyz00\Desktop\windowsソフト作成\メモ帳君\メモ帳君\obj\Debug\メモ帳君.csproj.CopyComplete

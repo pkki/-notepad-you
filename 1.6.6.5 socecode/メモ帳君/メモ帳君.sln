@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "メモ帳君", "メモ帳君.csproj", "{088B8854-780B-4F24-9509-7F183552DB5A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "メモ帳君インストローラー", "..\メモ帳君インストローラー\メモ帳君インストローラー.vdproj", "{A07324D1-277A-430B-8F96-5D8D5A13632E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088B8854-780B-4F24-9509-7F183552DB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088B8854-780B-4F24-9509-7F183552DB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088B8854-780B-4F24-9509-7F183552DB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088B8854-780B-4F24-9509-7F183552DB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07324D1-277A-430B-8F96-5D8D5A13632E}.Debug|Any CPU.ActiveCfg = Debug
+		{A07324D1-277A-430B-8F96-5D8D5A13632E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A3E6DB-C2CA-4D95-9826-8CD77D36AA8F}
+	EndGlobalSection
+EndGlobal
